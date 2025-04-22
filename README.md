@@ -1,13 +1,20 @@
-![github-light](https://github.com/user-attachments/assets/da004ffa-69d2-497b-bd19-ba1de1372777)# Avatar Images
-## Hero Image
+![github-light](https://github.com/user-attachments/assets/da004ffa-69d2-497b-bd19-ba1de1372777)
 
-![Up![hero-img](https://github.com/user-attachments/assets/03825744-60a3-4872-8613-257f6a451525)
+# Avatar Images
+
+## Hero Image
+## Updated Image Hero
+
+![432794645-03825744-60a3-4872-8613-257f6a451525(1)(1)](https://github.com/user-attachments/assets/43eb1ea1-a86a-4372-9b35-b49317863882)
+
+
 
 ## Mobile Avatar
-
 ![Character](https://github.com/user-attachments/assets/410eaeee-b040-4e50-974b-e1388afe36ad)
 ![MyCharacter](https://github.com/user-attachments/assets/4b3a5349-c0dd-4785-8ee9-2ed2287d6952)
 ![MyAvatar](https://github.com/user-attachments/assets/7ff377b7-1730-4bf1-9e74-894a47cdd8f6)
+##UpdatedAvatar
+![432790814-4b3a5349-c0dd-4785-8ee9-2ed2287d6952(1)](https://github.com/user-attachments/assets/91a804fb-6637-45d1-b02d-909da84af885)
 
 ## Shell Imges
 
