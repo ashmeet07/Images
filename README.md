@@ -22,11 +22,11 @@
 ![TabLetLightDark](https://github.com/user-attachments/assets/a18ad52b-5d1a-401e-9a14-f4cbdac9ccba)
 
 ## Icons images
+![backgod(2)(1)](https://github.com/user-attachments/assets/80480ed4-ce01-4287-a148-8b44213df0f8)
 
 
 ![github-dark](https://github.com/user-attachments/assets/8d829ee6-78de-402a-9ae0-4d3ca6cccc16)
 ![docker](https://github.com/user-attachments/assets/e573c1e5-3fbd-499e-9d8f-d0a79b4eac96)
-![ContactOffice](https://github.com/user-attachments/assets/656c9c44-b35a-4452-ae54-321285963f50)
 ![Community](https://github.com/user-attachments/assets/acf4df93-eed2-4cde-91a6-0a85a581a44d)
 ![checkmark-light](https://github.com/user-attachments/assets/6581bf72-17f4-425f-86ae-0028a152a3c9)
 ![checkmark-dark](https://github.com/user-attachments/assets/f054f465-0f95-481e-a75d-538e3ed7674a)
