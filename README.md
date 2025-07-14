@@ -54,3 +54,7 @@
 LinkedIn Image
 
 ![image-removebg-preview_1_-removebg-preview](https://github.com/user-attachments/assets/2ef125ed-bbee-4c80-a430-cbac5d31315a)
+
+<img width="508" height="657" alt="image" src="https://github.com/user-attachments/assets/678dbbea-1fcf-49ff-a420-1ce49a68e4a8" />
+<img width="499" height="647" alt="image" src="https://github.com/user-attachments/assets/ed000278-bd15-4ca0-b0e8-fe73f41e7b05" />
+
