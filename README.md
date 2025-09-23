@@ -7,6 +7,7 @@
 
 ![432794645-03825744-60a3-4872-8613-257f6a451525(1)(1)](https://github.com/user-attachments/assets/43eb1ea1-a86a-4372-9b35-b49317863882)
 
+<img width="512" height="512" alt="bot(1)" src="https://github.com/user-attachments/assets/df4f19f4-38ce-41c5-bedf-040aa8f5b837" />
 
 
 ## Mobile Avatar
